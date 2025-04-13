@@ -65,7 +65,7 @@ _School management site with chatbot for inquiries and admission help._
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jr.prath/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-patil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-sanjay-patil)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/JrPrath77)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pprathmesh7777@gmail.com)
 
