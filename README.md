@@ -55,12 +55,12 @@ _Achieved 90% accuracy in autonomous drone positioning for warehouse ops._
 **Tech**: ROS2 | PID Control | Gazebo  
 [![Drone Sim](https://github-readme-stats.vercel.app/api/pin/?username=JrPrath77&repo=drone-sim)](https://github.com/JrPrath77/drone-sim)
 
-### 🏫 Sponsored School Website (Coming Soon 🚧)  
-_School management site with chatbot for inquiries and admission help._  
-**Tech**: HTML | CSS | Node.js | JavaScript | Chatbot  
-🔗 _Link will be updated soon..._
+### 🏫 Dnyansiddhi Adarsh Gurukul Academy – School Website  
+_Official school management and information portal featuring a chatbot for inquiries, admissions, and updates._  
+**Tech Stack:** HTML | CSS | JavaScript | Node.js | Chatbot (Gemini API)  
 
----
+🔗 **[View Repository on GitHub →](https://github.com/JrPrath77/School-Website/tree/main)**
+
 
 ## 🌐 Connect With Me
 
